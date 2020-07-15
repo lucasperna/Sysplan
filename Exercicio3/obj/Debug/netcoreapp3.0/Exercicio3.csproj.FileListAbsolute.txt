@@ -1,0 +1,70 @@
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Exercicio3.exe
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Exercicio3.deps.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Exercicio3.runtimeconfig.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Exercicio3.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Exercicio3.dll
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Exercicio3.pdb
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Exercicio3.Views.dll
+C:\Users\Lucas\Desktop\DevPleno2020-master\bin\Debug\netcoreapp3.0\Exercicio3.Views.pdb
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\staticwebassets\Exercicio3.StaticWebAssets.Manifest.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\staticwebassets\Exercicio3.StaticWebAssets.xml
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.RazorAssemblyInfo.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.RazorAssemblyInfo.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.TagHelpers.input.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.TagHelpers.output.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.RazorCoreGenerate.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Razor\Views\Home\Enviar.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.RazorTargetAssemblyInfo.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.Views.pdb
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.dll
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.pdb
+C:\Users\Lucas\Desktop\DevPleno2020-master\obj\Debug\netcoreapp3.0\Exercicio3.csproj.CopyComplete
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Exercicio3.exe
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Exercicio3.deps.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Exercicio3.runtimeconfig.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Exercicio3.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Exercicio3.dll
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Exercicio3.pdb
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Exercicio3.Views.dll
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\bin\Debug\netcoreapp3.0\Exercicio3.Views.pdb
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\staticwebassets\Exercicio3.StaticWebAssets.Manifest.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\staticwebassets\Exercicio3.StaticWebAssets.xml
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.RazorAssemblyInfo.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.RazorAssemblyInfo.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.TagHelpers.input.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.TagHelpers.output.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.RazorCoreGenerate.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Razor\Views\Home\Enviar.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.RazorTargetAssemblyInfo.cs
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.Views.pdb
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.dll
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.pdb
+C:\Users\Lucas\Desktop\DevPleno2020-master\Nova pasta\obj\Debug\netcoreapp3.0\Exercicio3.csproj.CopyComplete
